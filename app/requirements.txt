@@ -8,6 +8,7 @@ adafruit-circuitpython-typing==1.12.3
 Adafruit-PlatformDetect==3.89.1
 Adafruit-PureIO==1.1.11
 binho-host-adapter==0.1.6
+circuitpython-stubs==10.2.1
 iniconfig==2.3.0
 packaging==26.3
 pluggy==1.6.0

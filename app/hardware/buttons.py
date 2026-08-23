@@ -1,4 +1,7 @@
 from hardware.gpio import gpio
+import digitalio
+from adafruit_blinka.board.raspberrypi.raspi_40pin import D0
+import board
 
 BUTTON_COUNT = 4
 
@@ -9,6 +12,8 @@ class buttons:
         self.gpio = gpio
         self.button_states = [False] * BUTTON_COUNT
         self.lamp_states = [False] * BUTTON_COUNT
+        self.setup_buttons()
+        self.setup_interrupts()
 
     def read_buttons(self) -> list[bool]:
         """Read the current state of the buttons."""
@@ -32,4 +37,7 @@ class buttons:
     def get_lamp_states(self) -> list[bool]:
         """Get the current state of the lamps."""
         return self.lamp_states
-    
+
+    def setup_interrupts(self):
+        """Set up interrupts for the buttons."""
+        digitalio.DigitalInOut(getattr(board, "D1")).switch_to_input(pull=digitalio.Pull.UP)
