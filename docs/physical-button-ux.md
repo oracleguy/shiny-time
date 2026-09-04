@@ -1,4 +1,4 @@
-# Raspberry Pi Clock/Timer: Physical Button UX
+# Physical Button UX
 
 The physical interface should stay simple: it supports the common timer actions without becoming a menu system. Complex configuration belongs in the web UI.
 

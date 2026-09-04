@@ -1,4 +1,4 @@
-# Raspberry Pi Clock: Setup Button Requirements
+# Setup Button Requirements
 
 The Setup flow is used rarely and should remain intentionally simple. The four-digit display communicates short status messages and a temporary authorization code; the phone or laptop handles Wi-Fi configuration.
 
