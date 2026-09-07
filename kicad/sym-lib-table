@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-08-31_02-06-08") (type "KiCad") (uri "${KIPRJMOD}/libraries/adafruit/2026-08-31_02-06-08.kicad_sym") (options "") (descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "capacitor-tht") (type "KiCad") (uri "${KIPRJMOD}/libraries/capacitor-tht.pretty") (options "") (descr "") (disabled))
+	(lib (name "footprints") (type "KiCad") (uri "${KIPRJMOD}/libraries/adafruit/footprints.pretty") (options "") (descr ""))
+)
