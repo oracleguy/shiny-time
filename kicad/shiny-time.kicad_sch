@@ -9337,7 +9337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 24.892 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -9360,6 +9360,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 26.67 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT10K0CT-ND"
 			(at 26.67 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -9465,6 +9476,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 53.34 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "1N4148FS-ND"
+			(at 53.34 146.05 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9601,7 +9623,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 72.0852 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -9624,6 +9646,17 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 71.12 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "1189-1224-ND"
 			(at 71.12 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -9870,6 +9903,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" ""
+			(at 31.75 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "B5"
 			(uuid "564b26d0-c0a5-4a1f-b5a1-1508ed1d9825")
 		)
@@ -9934,7 +9978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 112.7252 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -9957,6 +10001,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 111.76 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "399-4264-ND"
 			(at 111.76 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -10094,7 +10149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 100.0252 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -10117,6 +10172,17 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 99.06 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "1189-1148-ND"
 			(at 99.06 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -10332,7 +10398,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 207.9752 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -10355,6 +10421,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 207.01 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "399-4264-ND"
 			(at 207.01 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10414,7 +10491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 16.002 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -10437,6 +10514,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 17.78 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT10K0CT-ND"
 			(at 17.78 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10496,7 +10584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 40.132 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -10519,6 +10607,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 41.91 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT10K0CT-ND"
 			(at 41.91 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -10609,6 +10708,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" "DS1307+-ND"
+			(at 106.68 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "1db7b3ef-2781-41ad-b0c4-51da99b632aa")
 		)
@@ -10674,7 +10784,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 85.09 116.078 90)
 			(hide yes)
 			(show_name no)
@@ -10698,6 +10808,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 85.09 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT220RCT-ND"
+			(at 85.09 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11146,7 +11267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 257.302 102.87 90)
 			(hide yes)
 			(show_name no)
@@ -11169,6 +11290,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 259.08 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT10K0CT-ND"
 			(at 259.08 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11259,6 +11391,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" ""
+			(at 95.25 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "cb896a31-83d6-412b-aa00-118677012e5a")
 		)
@@ -11309,7 +11452,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 101.6 161.5948 0)
 			(hide yes)
 			(show_name no)
@@ -11333,6 +11476,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 97.79 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "399-4264-ND"
+			(at 97.79 162.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11391,7 +11545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 35.56 90.805 0)
 			(hide yes)
 			(show_name no)
@@ -11417,6 +11571,17 @@
 			)
 		)
 		(property "Description" "0.5A Id, 60V Vds, N-Channel MOSFET, TO-92"
+			(at 30.48 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "BS170-ND"
 			(at 30.48 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11479,7 +11644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 239.7252 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -11502,6 +11667,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 238.76 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "399-4264-ND"
 			(at 238.76 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -11637,7 +11813,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 87.63 93.218 90)
 			(hide yes)
 			(show_name no)
@@ -11661,6 +11837,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 87.63 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT220RCT-ND"
+			(at 87.63 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11797,7 +11984,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 132.842 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -11820,6 +12007,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 134.62 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT10K0CT-ND"
 			(at 134.62 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -11912,6 +12110,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" ""
+			(at 113.03 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "60bb5854-2c6e-4091-8b94-d2017a6e648c")
 		)
@@ -11987,6 +12196,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x09, script generated"
+			(at 119.38 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" ""
 			(at 119.38 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -12098,6 +12318,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" "497-1491-5-ND"
+			(at 86.36 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "33536fa3-e828-4c5c-b4d8-42531aceeb54")
 		)
@@ -12150,7 +12381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 35.56 107.315 0)
 			(hide yes)
 			(show_name no)
@@ -12176,6 +12407,17 @@
 			)
 		)
 		(property "Description" "0.5A Id, 60V Vds, N-Channel MOSFET, TO-92"
+			(at 30.48 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "BS170-ND"
 			(at 30.48 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -12342,6 +12584,17 @@
 			)
 		)
 		(property "Description" "16-bit I/O expander, I2C, interrupts, w pull-ups, SPDIP-28"
+			(at 68.58 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" " MCP23017-E/SP-ND"
 			(at 68.58 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -12667,6 +12920,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" "497-2495-1-ND"
+			(at 129.54 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c4a92b0c-a1c1-4ea9-809b-3948bd6937b4")
 		)
@@ -12714,7 +12978,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 118.11 164.338 90)
 			(hide yes)
 			(show_name no)
@@ -12738,6 +13002,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 118.11 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT1K00CT-ND"
+			(at 118.11 162.56 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12874,7 +13149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 47.752 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -12897,6 +13172,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 49.53 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "S5.1KCACT-ND"
 			(at 49.53 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13034,7 +13320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 248.412 102.87 90)
 			(hide yes)
 			(show_name no)
@@ -13057,6 +13343,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 250.19 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT10K0CT-ND"
 			(at 250.19 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -13114,7 +13411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical"
 			(at 226.06 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13137,6 +13434,17 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 226.06 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "2223-SSK04-FPH-254-B20-ND"
 			(at 226.06 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13308,7 +13616,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 100.33 88.138 90)
 			(hide yes)
 			(show_name no)
@@ -13332,6 +13640,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 100.33 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT220RCT-ND"
+			(at 100.33 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13390,7 +13709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 16.002 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -13413,6 +13732,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 17.78 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT10K0CT-ND"
 			(at 17.78 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -13472,7 +13802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 147.0152 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -13495,6 +13825,17 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 146.05 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "399-13968-ND"
 			(at 146.05 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -13744,6 +14085,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" ""
+			(at 66.04 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8cfaaa26-bc55-4f18-a7c7-27e95377c5d8")
 		)
@@ -13791,7 +14143,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 58.42 61.2648 0)
 			(hide yes)
 			(show_name no)
@@ -13815,6 +14167,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 54.61 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "399-4264-ND"
+			(at 54.61 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13873,7 +14236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 132.842 21.59 90)
 			(hide yes)
 			(show_name no)
@@ -13896,6 +14259,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 134.62 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT100RCT-ND"
 			(at 134.62 21.59 0)
 			(hide yes)
 			(show_name no)
@@ -14055,6 +14429,17 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 43.18 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" ""
+			(at 43.18 134.62 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14272,7 +14657,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_Round_D2.0mm_Vertical"
 			(at 78.74 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -14296,6 +14681,17 @@
 		)
 		(property "Description" "Two pin crystal"
 			(at 78.74 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "535-9032-ND"
+			(at 78.74 180.34 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14430,7 +14826,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 95.25 90.678 90)
 			(hide yes)
 			(show_name no)
@@ -14454,6 +14850,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 95.25 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT220RCT-ND"
+			(at 95.25 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14779,6 +15186,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" "2N7000FS-ND"
+			(at 33.02 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "868dcfb9-adef-443d-92fc-19362a87f5aa")
 		)
@@ -14855,6 +15273,17 @@
 		)
 		(property "Description" "Level-Translating I2C Bus Buffer/Repeater With Enable Function, SOIC-8"
 			(at 223.52 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "296-39221-1-ND"
+			(at 223.52 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14962,6 +15391,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" ""
+			(at 29.21 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "d8dbfd78-d3bc-4178-b2ea-6deb85f301be")
 		)
@@ -15017,7 +15457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 56.642 45.72 90)
 			(hide yes)
 			(show_name no)
@@ -15040,6 +15480,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 58.42 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "S5.1KCACT-ND"
 			(at 58.42 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -15253,7 +15704,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 101.6 107.442 90)
 			(hide yes)
 			(show_name no)
@@ -15277,6 +15728,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 101.6 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT220RCT-ND"
+			(at 101.6 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15368,6 +15830,17 @@
 				)
 			)
 		)
+		(property "Digikey_PN" "399-18542-ND"
+			(at 138.43 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d561ba23-a6ba-474b-9e41-aa98455f283a")
 		)
@@ -15415,7 +15888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 106.68 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -15439,6 +15912,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 106.68 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CF18JT220RCT-ND"
+			(at 106.68 83.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
