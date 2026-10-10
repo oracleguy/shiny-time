@@ -30,6 +30,3 @@ class Device:
         """Set the display brightness on the device."""
         self.display.brightness = brightness
         return
-
-
-device = Device()
